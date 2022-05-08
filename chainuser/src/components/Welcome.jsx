@@ -52,13 +52,16 @@ const Welcome = () => {
                         <div className="flex justify-between flex-col w-full h-full">
                             <div className="flex justify-between items-start">
                                 <div className="w-10 h-10 rounded-full border-2 border-white flex justify-center items-center">
-                                    <SiEthereum fontSize={21} color='#fff'/> 
+                                    <SiEthereum fontSize={21} color='#d4af37'/> 
                                 </div>
-                                <BsInfoCircle fontSize={17} color='#fff'/>
+                                <BsInfoCircle fontSize={17} color='#d4af37'/>
                             </div>
                             <div>
-                                <p className="text-white font-light text-sm font-bold">
-                                    0xsauweocml...aopwmd
+                                <p className="font-light text-sm font-light card_number" >
+                                    WL000SH0475874902
+                                </p>
+                                <p className="font-light text-lg font-semibold text-white mt-1" >
+                                    ETHEREUM
                                 </p>
                             </div>
                         </div>
