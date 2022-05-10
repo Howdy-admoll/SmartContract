@@ -98,7 +98,7 @@ const Welcome = () => {
                                 onClick={handleSubmit}
                                 className="text-white w-full mt-2 border-[1px] p-2 border-[#d4af37] rounded-full cursor-pointer"
                             >
-                               Send Now 
+                               Tranzfar Now 
                             </button>
                         )}
                     </div>
